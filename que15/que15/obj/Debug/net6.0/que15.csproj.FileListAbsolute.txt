@@ -1,0 +1,15 @@
+C:\Users\nithu.kb\source\repos\que15\que15\obj\Debug\net6.0\que15.csproj.AssemblyReference.cache
+C:\Users\nithu.kb\source\repos\que15\que15\obj\Debug\net6.0\que15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nithu.kb\source\repos\que15\que15\obj\Debug\net6.0\que15.AssemblyInfoInputs.cache
+C:\Users\nithu.kb\source\repos\que15\que15\obj\Debug\net6.0\que15.AssemblyInfo.cs
+C:\Users\nithu.kb\source\repos\que15\que15\obj\Debug\net6.0\que15.csproj.CoreCompileInputs.cache
+C:\Users\nithu.kb\source\repos\que15\que15\bin\Debug\net6.0\que15.exe
+C:\Users\nithu.kb\source\repos\que15\que15\bin\Debug\net6.0\que15.deps.json
+C:\Users\nithu.kb\source\repos\que15\que15\bin\Debug\net6.0\que15.runtimeconfig.json
+C:\Users\nithu.kb\source\repos\que15\que15\bin\Debug\net6.0\que15.dll
+C:\Users\nithu.kb\source\repos\que15\que15\bin\Debug\net6.0\que15.pdb
+C:\Users\nithu.kb\source\repos\que15\que15\obj\Debug\net6.0\que15.dll
+C:\Users\nithu.kb\source\repos\que15\que15\obj\Debug\net6.0\refint\que15.dll
+C:\Users\nithu.kb\source\repos\que15\que15\obj\Debug\net6.0\que15.pdb
+C:\Users\nithu.kb\source\repos\que15\que15\obj\Debug\net6.0\que15.genruntimeconfig.cache
+C:\Users\nithu.kb\source\repos\que15\que15\obj\Debug\net6.0\ref\que15.dll
