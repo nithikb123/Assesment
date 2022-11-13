@@ -1,0 +1,15 @@
+C:\Users\nithu.kb\source\repos\Experionproject\Experionproject\obj\Debug\net6.0\Experionproject.csproj.AssemblyReference.cache
+C:\Users\nithu.kb\source\repos\Experionproject\Experionproject\obj\Debug\net6.0\Experionproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nithu.kb\source\repos\Experionproject\Experionproject\obj\Debug\net6.0\Experionproject.AssemblyInfoInputs.cache
+C:\Users\nithu.kb\source\repos\Experionproject\Experionproject\obj\Debug\net6.0\Experionproject.AssemblyInfo.cs
+C:\Users\nithu.kb\source\repos\Experionproject\Experionproject\obj\Debug\net6.0\Experionproject.csproj.CoreCompileInputs.cache
+C:\Users\nithu.kb\source\repos\Experionproject\Experionproject\bin\Debug\net6.0\Experionproject.exe
+C:\Users\nithu.kb\source\repos\Experionproject\Experionproject\bin\Debug\net6.0\Experionproject.deps.json
+C:\Users\nithu.kb\source\repos\Experionproject\Experionproject\bin\Debug\net6.0\Experionproject.runtimeconfig.json
+C:\Users\nithu.kb\source\repos\Experionproject\Experionproject\bin\Debug\net6.0\Experionproject.dll
+C:\Users\nithu.kb\source\repos\Experionproject\Experionproject\bin\Debug\net6.0\Experionproject.pdb
+C:\Users\nithu.kb\source\repos\Experionproject\Experionproject\obj\Debug\net6.0\Experionproject.dll
+C:\Users\nithu.kb\source\repos\Experionproject\Experionproject\obj\Debug\net6.0\refint\Experionproject.dll
+C:\Users\nithu.kb\source\repos\Experionproject\Experionproject\obj\Debug\net6.0\Experionproject.pdb
+C:\Users\nithu.kb\source\repos\Experionproject\Experionproject\obj\Debug\net6.0\Experionproject.genruntimeconfig.cache
+C:\Users\nithu.kb\source\repos\Experionproject\Experionproject\obj\Debug\net6.0\ref\Experionproject.dll
